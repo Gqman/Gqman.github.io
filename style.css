@@ -18,9 +18,9 @@ body {
     background: -o-linear-gradient(right, #19bf94, #5259bd, #90bd52, #bd6f52, #bd6f52);
     background: linear-gradient(to left, #19bf94, #5259bd, #90bd52, #bd6f52, #bd6f52);
     background-size: 1000% 1000%;
-    -webkit-animation: AnimationName 100s ease infinite;
-    -moz-animation: AnimationName 100s ease infinite;
-    animation: AnimationName 100s ease infinite;
+    -webkit-animation: AnimationName 40s ease infinite;
+    -moz-animation: AnimationName 40s ease infinite;
+    animation: AnimationName 40s ease infinite;
     color: white;
 }
 
